@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub Page 😁
 
-I'm Wesley, 31, Brazilian 🇧🇷 and currently living in Colombia 🇨🇴❤️
+I'm Wesley, Brazilian 🇧🇷 and currently living in Colombia 🇨🇴❤️
 
 I've been working as a Front-End Developer since 2009 and I work most of time with [ReactJS](https://reactjs.org/) 🥰 
 
